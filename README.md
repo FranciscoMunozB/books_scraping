@@ -1,4 +1,5 @@
-# Books_scraping
+# Books Scraping
+## Instrucciones
 
 Como prerequisitos para la ejecución del algoritmo, es necesario tener instalado python 3 y el instalador de paquetes pip.
 Además, es se requiere instalar wget con la siguiente instrucción por consola: "pip install wget"
